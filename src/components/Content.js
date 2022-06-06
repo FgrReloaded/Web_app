@@ -5,7 +5,7 @@ function Content() {
     <>
         <div className="container">
             <div className="imgContent">
-                <img src="/1.png" alt="image" />
+                <img src="/1.png" alt="reload" />
             </div>
             <div className="contentBox">
                 <p className='textCenter'>C.R.I PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARAD 2018 for the 4th time.</p>
